@@ -4,15 +4,13 @@
 </picture>
 
 <p>
+  <a href="https://peterukor.com"><img alt="Website" src="https://img.shields.io/badge/Website-peterukor.com-16181D?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/peter-ukor"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-peter--ukor-2C55D6?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:peterukor001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-peterukor001%40gmail.com-16181D?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://socrasage.com"><img alt="SocraSage live" src="https://img.shields.io/badge/Live-socrasage.com-2C55D6?style=flat-square"></a>
-  <!-- Portfolio: uncomment once it's deployed and replace the URL.
-  <a href="https://YOUR-PORTFOLIO-URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-16181D?style=flat-square"></a>
-  -->
+  <a href="mailto:peter@peterukor.com"><img alt="Email" src="https://img.shields.io/badge/Email-peter%40peterukor.com-16181D?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="https://socrasage.com"><img alt="SocraSage live" src="https://img.shields.io/badge/SocraSage-live-2C55D6?style=flat-square"></a>
 </p>
 
-I'm a Computer Science student at **NJIT** (minor in AI) who likes understanding how systems work underneath: APIs, auth boundaries, consensus, cloud plumbing, and AI that reasons over real evidence. I learn by building things from the ground up, and I'm a research assistant on two projects in reinforcement learning and NLP.
+I'm a Computer Science student at **NJIT** (minor in AI) who likes understanding how systems work underneath: APIs, auth boundaries, consensus, cloud plumbing, and AI that reasons over real evidence. I learn by building things from the ground up, and I'm a research assistant on two projects in reinforcement learning and NLP. More at **[peterukor.com](https://peterukor.com)**.
 
 ---
 
@@ -28,7 +26,7 @@ Students upload their own course material, read it in the browser, and use AI to
 - **Server-enforced usage controls**, Cognito sign-in, DynamoDB for app data, infrastructure defined with AWS SAM
 - Solo: architecture, backend, cloud infrastructure, AI integration, and frontend
 
-`Go` `React` `AWS` `DynamoDB` `S3` `SQS` `Lambda` `Cognito` `OpenAI` &nbsp;→ **[socrasage.com](https://socrasage.com)**
+`Go` `React` `AWS` `DynamoDB` `S3` `SQS` `Lambda` `Cognito` `OpenAI` &nbsp;→ **[Try it at socrasage.com](https://socrasage.com)** <sub>(source is private)</sub>
 
 ### ⚙️ [kvraft](https://github.com/peterukor/kvraft) · Raft consensus from scratch in Go &nbsp;`in progress`
 
@@ -76,15 +74,10 @@ A deployed, multi-user job-application tracker that turns a job search into a pi
 | [Plumb Bros](https://github.com/peterukor/plumb-bros) | Staff app for customers, appointments, and supplies, with atomic cancellations and CSRF protection | Flask · SQLite |
 | [SimpleChat](https://github.com/peterukor/simple-chat-app) | Room-code group chat for up to eight people, with cursor-based polling | Flask · SQLite |
 
-## Research
-
-- **RELINK**, Research Assistant: deep reinforcement learning for edge-level influence maximization in closed social networks
-- **Teen Mental Health Language Detection**, Research Assistant: NLP dataset construction, annotation, and model evaluation (20,000-example dataset, Krippendorff's α ≥ 0.70)
-
 ## Tools I use
 
 <p>
   <img alt="Go, Python, TypeScript, JavaScript, Java, C++, React, Next.js, PostgreSQL, AWS, Docker, Kubernetes, Flask, FastAPI, Git, Linux" src="https://skillicons.dev/icons?i=go,python,ts,js,java,cpp,react,nextjs,postgres,aws,docker,kubernetes,flask,fastapi,git,linux&perline=8">
 </p>
 
-<sub>Currently: adding persistence and a client API to kvraft. Open to internships and full-time software engineering roles in the NY/NJ area.</sub>
+<sub>Currently: adding persistence and a client API to kvraft. Open to internships and full-time software engineering roles in the NY/NJ area. Say hi at [peter@peterukor.com](mailto:peter@peterukor.com).</sub>
